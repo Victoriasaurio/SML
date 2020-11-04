@@ -1,0 +1,8 @@
+Esta la forma de correr un .slm en el programa 
+
+
+use "C:/Users/VICTOR/Dropbox/ISC 7mo Semestre/PROLOG/SML/PATRONESYESPECIFICACIONES/nombredelarchivo.sml";
+use "C:/Users/VICTOR/Dropbox/ISC 7mo Semestre/PROLOG/SML/FUNORDENSUPERIOR/nombredelarchivo.sml";
+use "C:/Users/VICTOR/Dropbox/ISC 7mo Semestre/PROLOG/SML/VALORESYLIGADURASDEVALORESMERGE/valores.sml";
+use "C:/Users/VICTOR/Dropbox/ISC 7mo Semestre/PROLOG/SML/EXCEPCIONES/excepciones.sml";
+use "C:/Users/VICTOR/Dropbox/ISC 7mo Semestre/PROLOG/SML/EVALUACION/evaluacion.sml";
